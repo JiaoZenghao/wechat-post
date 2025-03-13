@@ -6,5 +6,6 @@ readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "flake8>=7.1.2",
+    "newspaper3k>=0.2.8",
     "requests>=2.32.3",
 ]
